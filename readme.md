@@ -3,7 +3,7 @@
 An introduction to Webpack 4 for Sitepoint.
 
 ```bash
-git@github.com:markbrown4/webpack-demo.git
+git clone git@github.com:markbrown4/webpack-demo.git
 cd webpack-demo
 npm install
 
